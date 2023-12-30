@@ -4,6 +4,6 @@ public without sharing class TesteApex
 
     public void testarApex()
     {
-        System.debug('Testando o apex');
+        System.debug('Testando o apex 123');
     }
 }
